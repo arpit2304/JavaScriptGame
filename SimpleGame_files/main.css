@@ -1,0 +1,31 @@
+div.circle {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border: 2px solid black;
+}
+
+div.square {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border: 2px solid black;
+}
+
+div {
+    display: inline-block;
+    border: 2px solid gray;
+    margin: 5px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 140%;
+}
+
+#btn {
+    background-color: lightgreen;
+    border: none;
+    font-size: 105%;
+}
